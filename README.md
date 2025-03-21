@@ -51,9 +51,9 @@ I'm a **Full Stack Developer** with a passion for creating impactful web and mob
 
 ## ✨ Projects I'm Proud Of
 
-- [🐶 PetClub App](https://github.com/JoelArg02/PetClub): Connect pet owners with services like veterinary care and more using React Native and Redux.
-- [💻 Credit Tracking System](https://github.com/JoelArg02/CreditTracking): Built with React and Express, offering a seamless experience to manage credits.
-- [🛒 Sales Platform](https://github.com/JoelArg02/SalesPlatform): WordPress-powered eCommerce solution with enhanced UI and backend optimization.
+- [🐶 PetClub App]: Connect pet owners with services like veterinary care and more using React Native and Redux.
+- [💻 Credit Tracking System]: Built with React and Express, offering a seamless experience to manage credits.
+- [🛒 Sales Platform]: WordPress-powered eCommerce solution with enhanced UI and backend optimization.
 
 ---
 
