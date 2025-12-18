@@ -12,21 +12,19 @@ I'm a **Full Stack Developer** with a passion for creating impactful web and mob
 - 🌱 Constantly learning new technologies and exploring **cloud architecture**
 - 💡 Enthusiastic about clean code and optimized solutions
 - 📖 Pursuing a degree in **Software Engineering** to strengthen my technical foundations
-- ⚡ Fun fact: I love integrating modern UI/UX design with efficient backend systems!
 
 ---
 
 ## 🛠 Tech Stack
 
 **Frontend:**
-- ⚛️ React & React Native
+- ⚛️ React, React Native & NextJS
 - 📱 TypeScript
-- 🌐 HTML5, CSS3, JavaScript (ES6+)
 
 **Backend:**
 - 🖥️ C# with .NET Core
 - 🛠 Node.js, Express
-- 🛢️ SQL, MongoDB
+- 🛢️ SQL, MongoDB, SQL SERVER
 
 **Tools:**
 - 🛠 Git & GitHub
